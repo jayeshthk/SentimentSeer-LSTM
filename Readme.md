@@ -70,6 +70,10 @@ The model is trained using the following steps:
 3. **Optimizer**: Adam optimizer is used for updating the model’s parameters.
 4. **Epochs**: The model is trained over a set number of epochs, with validation loss being monitored to prevent overfitting.
 
+## Trained Model -
+
+- You can find trained model on [HuggingFace](https://huggingface.co/joe-xhedi) - https://huggingface.co/joe-xhedi/SentimentSeer_LSTM/blob/main/sentiment_analysis_model.pth
+
 ## Model Evaluation
 
 After training, the model is evaluated on a separate test set to determine its performance. Key metrics include:
