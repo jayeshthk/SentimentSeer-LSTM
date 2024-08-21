@@ -1,5 +1,8 @@
 # SentimentSeer-LSTM
-![sad-happy-sad](/images/sadbabyhappybay.gif)**SentimentSeer-LSTM** is a repository featuring a sentiment analysis project that leverages Long Short-Term Memory (LSTM) networks. This notebook demonstrates the entire workflow of preparing text data, building an LSTM-based sentiment classification model, training it, and evaluating its performance.
+![sad-happy-sad](/images/sadbabyhappybay.gif)
+
+
+**SentimentSeer-LSTM** is a repository featuring a sentiment analysis project that leverages Long Short-Term Memory (LSTM) networks. This notebook demonstrates the entire workflow of preparing text data, building an LSTM-based sentiment classification model, training it, and evaluating its performance.
 
 ## Table of Contents
 
